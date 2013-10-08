@@ -20,7 +20,7 @@ public class AppUsersGUI {
 	private static final Log logger = LogFactory.getLog(AppUsersGUI.class);
 	
 	/**
-	 * nom du fichier XML contenant les utilisateurs
+	 *         20nom du fichier XML contenant les utilisateurs
 	 */
 	private String fileNameUsers;
 
